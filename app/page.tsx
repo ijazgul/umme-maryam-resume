@@ -290,8 +290,8 @@ export default function Portfolio() {
                     <Phone className="h-6 w-6" />
                   </div>
                   <div>
-                    <p className="font-semibold">Phone</p>
-                    <p className="text-slate-300">03218954363</p>
+                    <p className="font-semibold">Phone & WhatsApp</p>
+                    <p className="text-slate-300"><a href="https://wa.me/923218954363?text=Hi,%20I%20would%20like%20to%20learn%20">+923218954363</a></p>
                   </div>
                 </div>
 
